@@ -88,22 +88,21 @@ Repository:
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshkumar2398&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshkumar2398&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
-# 🔥 GitHub Contribution Streak
+## 🔥 GitHub Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakeshkumar2398&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rakeshkumar2398&theme=tokyonight)
 
 ---
 
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkumar2398&layout=compact&theme=tokyonight)
-
 ---
 
 # 🤝 Connect
