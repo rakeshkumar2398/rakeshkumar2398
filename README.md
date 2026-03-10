@@ -115,21 +115,13 @@ Planned repositories:
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Activity
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakeshkumar2398&theme=github_dark)
+You can view my GitHub activity and contributions here:
 
----
+👉 https://github.com/rakeshkumar2398
 
-## 💻 Most Used Languages
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakeshkumar2398&theme=github_dark)
-
----
-
-## 🔥 GitHub Activity
-
-![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakeshkumar2398&theme=github_dark)
+Repositories include DevOps CI/CD pipelines, Kubernetes deployments, and infrastructure automation projects.
 ---
 
 # 🤝 Connect
