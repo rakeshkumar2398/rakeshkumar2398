@@ -2,16 +2,16 @@
 <h3 align="center">DevOps Engineer | Cloud Infrastructure | CI/CD | Automation</h3>
 
 <p align="center">
-Building scalable infrastructure, automation pipelines, and cloud-native applications
+Building scalable infrastructure, automated CI/CD pipelines, and cloud-native applications.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-DevOps Engineer with experience designing and implementing scalable infrastructure, CI/CD pipelines, containerized applications, and cloud-native systems.
+DevOps Engineer focused on building reliable and scalable infrastructure using modern cloud and automation practices.
 
-I focus on building reliable systems using modern DevOps tools and infrastructure automation practices.
+I specialize in designing CI/CD pipelines, containerized deployments, infrastructure automation, and Kubernetes-based application delivery.
 
 ---
 
@@ -23,7 +23,7 @@ I focus on building reliable systems using modern DevOps tools and infrastructur
 
 ---
 
-## 🚀 DevOps & CI/CD Tools
+## 🚀 DevOps & CI/CD
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -79,35 +79,64 @@ I focus on building reliable systems using modern DevOps tools and infrastructur
 
 # 📂 Featured DevOps Projects
 
-### End-to-End DevOps Pipeline
-Description:  
-CI/CD pipeline implementation using Jenkins, Docker, Kubernetes and cloud deployment.
+### ☕ Chai Kafe – End-to-End DevOps CI/CD Pipeline
 
-Repository:  
-(https://github.com/rakeshkumar2398/chaikafe.in.git)
+Production-style DevOps implementation demonstrating a complete CI/CD workflow with containerized deployment and Kubernetes orchestration.
+
+**Key Technologies**
+
+- Spring Boot
+- Docker
+- Jenkins
+- AWS ECR
+- Amazon EKS
+- ArgoCD
+- AWS ALB Ingress
+- Route53
+- ACM SSL
+
+**Repository**
+
+https://github.com/rakeshkumar2398/chaikafe.in
 
 ---
 
-## 📊 GitHub Statistics
+### 🚧 Upcoming DevOps Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshkumar2398&show_icons=true&theme=tokyonight&cache_seconds=86400)
+Additional infrastructure and DevOps projects will be added here.
+
+Planned repositories:
+
+- Terraform AWS Infrastructure
+- Kubernetes Microservices Deployment
+- GitHub Actions CI/CD Pipeline
+- Monitoring Stack (Prometheus + Grafana)
+- DevSecOps Security Pipeline
 
 ---
 
-## 🔥 GitHub Contribution Streak
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshkumar2398&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rakeshkumar2398&theme=tokyonight)
 
 ---
 
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkumar2398&layout=compact&theme=tokyonight)
+
 ---
 
 # 🤝 Connect
 
-LinkedIn: www.linkedin.com/in/rakeshkumarpidikirala
+LinkedIn  
+https://www.linkedin.com/in/rakeshkumarpidikirala
 
 ---
 
