@@ -100,7 +100,7 @@ Repository:
 
 ---
 
-# 💻 Most Used Languages
+## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkumar2398&layout=compact&theme=tokyonight)
 
