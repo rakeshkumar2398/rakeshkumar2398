@@ -117,20 +117,19 @@ Planned repositories:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rakeshkumar2398&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rakeshkumar2398&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakeshkumar2398&theme=github_dark)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rakeshkumar2398&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakeshkumar2398&theme=github_dark)
 
+---
+
+## 🔥 GitHub Activity
+
+![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakeshkumar2398&theme=github_dark)
 ---
 
 # 🤝 Connect
