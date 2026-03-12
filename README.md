@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Rakesh Kumar</h1>
-<h3 align="center">DevOps Engineer | Cloud Infrastructure | CI/CD | Automation</h3>
+<h1 align="center"> Hi 👋 I'm RAKESH KUMAR </h1>
+<h3 align="center"> DevOps Engineer | Cloud Infrastructure | CI/CD | Security |Automation </h3>
 
 <p align="center">
 Building scalable infrastructure, automated CI/CD pipelines, and cloud-native applications.
@@ -106,7 +106,7 @@ https://github.com/rakeshkumar2398/chaikafe.in
 Additional infrastructure and DevOps projects will be added here.
 
 Planned repositories:
-
+- Three Tier Project- DevOps Tools
 - Terraform AWS Infrastructure
 - Kubernetes Microservices Deployment
 - GitHub Actions CI/CD Pipeline
