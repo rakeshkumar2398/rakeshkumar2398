@@ -110,19 +110,6 @@ Production-style DevOps implementation demonstrating a complete CI/CD workflow w
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rakeshkumar2398&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshkumar2398&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakeshkumar2398&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Connect
 
 <p align="center">
