@@ -92,7 +92,7 @@ Production-style DevOps implementation demonstrating a complete CI/CD workflow w
 `Spring Boot` • `Docker` • `Jenkins` • `AWS ECR` • `Amazon EKS` • `ArgoCD` • `AWS ALB Ingress` • `Route53` • `ACM SSL`
 
 <p align="center">
-  <a href="https://github.com/rakeshkumar2398/chaikafe.in">
+  <a href="https://github.com/rakeshkumar2398/Project-Cafe">
     <img src="https://img.shields.io/badge/🚀_Open_Project-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
