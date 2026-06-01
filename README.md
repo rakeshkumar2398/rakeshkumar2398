@@ -153,7 +153,8 @@ This project demonstrates how an application moves from source code to container
 </td>
 </tr>
 </table>
-### ✅ Current / Planned Projects
+
+## ✅ Current / Planned Projects
 
 - [Three-Tier DevOps Project](https://github.com/rakeshkumar2398/Project-Cafe)
 - [Kubernetes End-to-End CI/CD Project](https://github.com/rakeshkumar2398/Kubernetes-Project.git)
@@ -161,6 +162,7 @@ This project demonstrates how an application moves from source code to container
 - GitHub Actions CI/CD Pipeline
 - Monitoring Stack with Prometheus + Grafana
 - DevSecOps Security Pipeline
+- AI assisted DevOps
 
 </td>
 <td>
