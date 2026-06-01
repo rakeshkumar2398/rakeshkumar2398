@@ -153,3 +153,40 @@ This project demonstrates how an application moves from source code to container
 </td>
 </tr>
 </table>
+### ✅ Current / Planned Projects
+
+- [Three-Tier DevOps Project](https://github.com/rakeshkumar2398/Project-Cafe)
+- [Kubernetes End-to-End CI/CD Project](https://github.com/rakeshkumar2398/Kubernetes-Project.git)
+- Terraform AWS Infrastructure Project
+- GitHub Actions CI/CD Pipeline
+- Monitoring Stack with Prometheus + Grafana
+- DevSecOps Security Pipeline
+
+</td>
+<td>
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakeshkumarpidikirala">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rakeshkumar2398">
+    <img src="https://skillicons.dev/icons?i=github" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:Pidikiralarakeshkumar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakeshkumar2398&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>⚡ DevOps | Cloud Infrastructure | CI/CD | Automation | Security ⚡</b>
+</p>
