@@ -101,13 +101,12 @@ Production-style DevOps implementation demonstrating a complete CI/CD workflow w
 
 ## 🛠 Planned DevOps Builds
 
-- Three-Tier DevOps Project
+- [Three-Tier DevOps Project](https://github.com/rakeshkumar2398/Project-Cafe)
+- [Kubernetes End-to-End CI/CD Project](https://github.com/rakeshkumar2398/Kubernetes-Project.git)
 - Terraform AWS Infrastructure
-- Kubernetes Microservices Deployment
 - GitHub Actions CI/CD Pipeline
 - Monitoring Stack with Prometheus + Grafana
 - DevSecOps Security Pipeline
-
 ---
 
 ## 🌐 Connect
