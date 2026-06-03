@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,60:1e3a8a,100:0ea5e9&height=290&section=header&text=Rakesh%20Kumar%20Pidikirala&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20CI%2FCD%20Automation&descAlignY=55&descSize=19" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,60:1e3a8a,100:0ea5e9&height=290&section=header&text=RakeshKumar%20Pidikirala&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20CI%2FCD%20Automation&descAlignY=55&descSize=19" />
 </p>
 
 <h2 align="center">⚙️ DevOps Engineer | Cloud Infrastructure | CI/CD Automation | Kubernetes ⚙️</h2>
