@@ -157,9 +157,9 @@ This project demonstrates how an application moves from source code to container
 ## ✅ Current / Planned Projects
 
 - [Three-Tier DevOps Project](https://github.com/rakeshkumar2398/Project-Cafe)
+- [☕ ChaiCafe – Three Tier GitOps DevOps Project(ArgoCD)](https://github.com/rakeshkumar2398/ArgoCd-Project.git)
 - [Kubernetes End-to-End CI/CD Project](https://github.com/rakeshkumar2398/Kubernetes-Project.git)
 - Terraform AWS Infrastructure Project
-- [ArgoCD-Project](https://github.com/rakeshkumar2398/ArgoCd-Project.git)
 - GitHub Actions CI/CD Pipeline
 - Monitoring Stack with Prometheus + Grafana
 - DevSecOps Security Pipeline
