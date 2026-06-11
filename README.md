@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,60:1e3a8a,100:0ea5e9&height=290&section=header&text=RakeshKumar%20Pidikirala&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20CI%2FCD%20Automation&descAlignY=55&descSize=19" />
 </p>
 
-<h2 align="center">⚙️ DevOps Engineer | Cloud Infrastructure | CI/CD Automation | Kubernetes| Security ⚙️</h2>
+<h2 align="center">⚙️ DevOps Engineer | Cloud Infrastructure | CI/CD Automation | Kubernetes | Security ⚙️</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Real-Time+DevOps+Projects;AWS+Cloud+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Jenkins+CI%2FCD+%7C+GitHub+Actions+%7C+GitOps;Monitoring+%7C+Security+%7C+Scalable+Deployments" />
